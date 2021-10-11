@@ -1,0 +1,9 @@
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.Properties.Resources.resources
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.GenerateResource.Cache
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\Algorithm\Algorithm\obj\Debug\Algorithm.TuringMachine.resources
